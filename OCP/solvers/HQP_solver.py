@@ -5,7 +5,6 @@
 import numpy as np
 import copy
 from .HQP_abstract import *
-from .osqpWrapper import *
 from .quadprogWrapper import *
 from .HQP_output import *
 
